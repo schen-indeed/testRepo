@@ -1,0 +1,132 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-12 11:22-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: src/resources/webapp/static/scripts/containers/SentimentButtons.js:1
+msgid "Agree"
+msgstr ""
+
+#: src/resources/webapp/static/scripts/containers/SentimentButtons.js:1
+msgid "Disagree"
+msgstr ""
+
+#. Page title
+#: src/resources/templates/soy/emailRating.soy:1
+#, java-format
+msgid "Email rating feedback"
+msgstr ""
+
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Give us an earful!"
+msgstr ""
+
+#. User feedback question
+#: src/java/com/indeed/loyal/survey/webapp/controllers/EmailRatingController.java:1
+msgid "How can we improve this email?"
+msgstr ""
+
+#. User feedback question
+#: src/java/com/indeed/loyal/survey/webapp/controllers/EmailRatingController.java:1
+msgid "How was this email helpful to you?"
+msgstr ""
+
+#. Message asking user to submit feedback
+#: src/resources/webapp/static/scripts/containers/NpsSurvey.js:1
+msgid "Indeed made it easy for me to post my job."
+msgstr ""
+
+#: src/resources/webapp/static/scripts/survey.js:1
+msgid "Loading..."
+msgstr ""
+
+#. Help message
+#: src/resources/templates/soy/emailRating.soy:1
+#, java-format
+msgid "Need help?"
+msgstr ""
+
+#: src/resources/webapp/static/scripts/containers/SentimentButtons.js:1
+msgid "Neutral"
+msgstr ""
+
+#. Error message displayed after user feedback submission is unsuccessful
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Oops, looks like your feedback is empty."
+msgstr ""
+
+#. Error message displayed after user feedback submission is unsuccessful
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Sorry your feedback was not successfully sent. Please try again later."
+msgstr ""
+
+#: src/resources/webapp/static/scripts/containers/SentimentButtons.js:1
+msgid "Strongly Agree"
+msgstr ""
+
+#: src/resources/webapp/static/scripts/containers/SentimentButtons.js:1
+msgid "Strongly Disagree"
+msgstr ""
+
+#. Submit button text
+#: src/resources/webapp/static/scripts/containers/NpsSurvey.js:1
+msgid "Submit"
+msgstr ""
+
+#. Submit button text
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Submit your feedback"
+msgstr ""
+
+#. Page title
+#: src/resources/templates/soy/survey.soy:1
+#, java-format
+msgid "Survey"
+msgstr ""
+
+#: src/resources/webapp/static/scripts/containers/NpsSurvey.js:1
+msgid "Tell us why..."
+msgstr ""
+
+#. Message displayed after user submits feedback successfully
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Thank you for your time!"
+msgstr ""
+
+#. Message displayed on feedback submission
+#: src/resources/templates/soy/emailRating.soy:1
+#, java-format
+msgid "Thanks for the feedback! Care to tell us more?"
+msgstr ""
+
+#. Link for help
+#: src/resources/templates/soy/emailRating.soy:1
+#, python-brace-format
+msgid "Visit our <a {0}>Help Center</a> for answers to common questions or <a {1}>contact Indeed</a>."
+msgstr ""
+
+#. Message displayed on feedback submission
+#: src/resources/templates/soy/emailRating.soy:1
+#, java-format
+msgid "We're glad to hear from you."
+msgstr ""
+
+#. User feedback question
+#: src/java/com/indeed/loyal/survey/webapp/controllers/EmailRatingController.java:1
+msgid "What could we do to improve your experience?"
+msgstr ""
+
+#. Message displayed after user submits feedback successfully
+#: src/resources/webapp/static/scripts/emailRating.js:1
+msgid "Your feedback helps us make our communications better for everyone."
+msgstr ""
